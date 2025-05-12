@@ -1,0 +1,11 @@
+{
+  "type": "group",
+  "identifier": "course",
+  "fields": [
+    {"id": "courseCode", "value": "ART101"},
+    {"id": "title", "value": "Introduction to Art"},
+    {"id": "instructor", "value": "Jane Doe"},
+    {"id": "credits", "value": "3"},
+    {"id": "description", "value": "A survey of visual arts from antiquity to modern times."}
+  ]
+}
