@@ -1,6 +1,6 @@
 # course-importer
+
 A Python script that simulates importing course data from a `.csv` file and converting it into a structured block format — suitable for use in content systems, headless CMS, or static site generators.
----
 
 ## 📌 Features
 
